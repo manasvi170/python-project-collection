@@ -1,3 +1,4 @@
+#portfolio project
 #creating a band name generator
 print("Hello! This your band name generator")
 city=input("Where do you live?\n")
