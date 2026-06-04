@@ -1,4 +1,4 @@
-# Creating a Rock Paper Scissors game
+#Creating a Rock Paper Scissors game
 import random
 print("Welcome to the Rock Paper Scissor game.\n You will be playing against the computer!\n\n")
 Rock = '''
@@ -53,7 +53,7 @@ else:
     print(Scissors)
 
 
-# Rules
+ #Rules
 if user_playing==0 and computer_choose==2:
     print("You WON!")
 elif computer_choose==2 and user_playing==0:
