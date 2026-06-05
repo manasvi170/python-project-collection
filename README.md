@@ -39,6 +39,11 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Machine Learning Fundamentals
 
 ### Portfolio Projects
+-Band name generator
+-Tip and Splitter bill calculator
+-Treasure Island game
+- Rock ,Paper,Scissors game
+- 
 - Tic Tac Toe Game
 - Portfolio Website
 - Image Watermarking App
