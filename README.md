@@ -43,8 +43,9 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 -Tip and Splitter bill calculator
 -Treasure Island game
 - Rock Paper Scissors game
-- Ceaser Cipher
-- Secret auction program 
+- Ceaser Cipher program
+- Secret auction program
+- Hangman Game
 
 
 ## Goal
