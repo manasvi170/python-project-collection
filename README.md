@@ -42,16 +42,10 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 -Band name generator
 -Tip and Splitter bill calculator
 -Treasure Island game
-- Rock ,Paper,Scissors game
-- 
-- Tic Tac Toe Game
-- Portfolio Website
-- Image Watermarking App
-- Todo List Website
-- Space Invaders Game
-- Web Scrapers
-- Browser Automation Projects
-- Data Analysis Projects
+- Rock Paper Scissors game
+- Ceaser Cipher
+- Secret auction program 
+
 
 ## Goal
 Build 100+ Python projects while developing strong problem-solving and software development skills.
