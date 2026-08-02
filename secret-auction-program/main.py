@@ -23,4 +23,4 @@ while continue_bidding:
         continue_bidding = False
         find_highest_bidder(bids)
     elif should_continue == "yes":
-        print("\n" * 20)
+        print("\n" * 50)
