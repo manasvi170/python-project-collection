@@ -1,5 +1,5 @@
 # python-project-collection
-A collection of 100 Python Projects documenting my journey from beginner to advanced Python development. 
+A collection of Python Projects documenting my journey from beginner to advanced Python development. 
 
 Hi, I'm Manasvi, a BCA student passionate about Python and software development.
 This repository documents my journey through a comprehensive Python Bootcamp, covering beginner, intermediate, advanced, and portfolio-level projects.
@@ -46,6 +46,8 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Ceaser Cipher program
 - Secret auction program
 - Hangman Game
+- OOP version Coffee machine
+  
 
 
 ## Goal
