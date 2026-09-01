@@ -1,10 +1,10 @@
-<center># python-project-collection</center>
+# python-project-collection
 <h3>A collection of Python Projects documenting my journey from beginner to advanced Python development.</h3>
 
 Hi, I'm Manasvi, a BCA student passionate about Python and software development.
 This repository documents my journey through a comprehensive Python Bootcamp, covering beginner, intermediate, advanced, and portfolio-level projects.
 
-<h2><center>## Topics Covered</center></h2>
+<h2>## Topics Covered</h2>
 
 ### Beginner Python
 - Variables and Data Types
@@ -14,7 +14,7 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Lists and Dictionaries
 - Error Handling
 - Debugging
-
+<hr></hr>
 ### Intermediate Python
 - Object-Oriented Programming (OOP)
 - Classes and Inheritance
