@@ -16,7 +16,7 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Debugging
  
 <hr>
-### Intermediate Python
+### Intermediate Python  <br>
 - Object-Oriented Programming (OOP) <br>
 - Classes and Inheritance  <br>
 - File Handling <br>
