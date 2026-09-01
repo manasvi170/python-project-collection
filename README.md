@@ -14,6 +14,7 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Lists and Dictionaries
 - Error Handling
 - Debugging
+- 
 <hr></hr>
 ### Intermediate Python
 - Object-Oriented Programming (OOP)
@@ -27,6 +28,8 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Selenium Automation
 - Flask Web Development
 
+<hr></hr>
+
 ### Advanced Python
 - REST APIs
 - SQLite Databases
@@ -38,6 +41,9 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Plotly
 - Machine Learning Fundamentals
 
+- <hr></hr>
+
+
 ### Portfolio Projects
 -Band name generator
 -Tip and Splitter bill calculator
@@ -47,7 +53,8 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Secret auction program
 - Hangman Game
 - OOP version Coffee machine
-  
+ <hr></hr>
+ 
 
 
 ## Goal
