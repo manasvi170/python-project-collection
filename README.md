@@ -15,20 +15,20 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Error Handling
 - Debugging
  
-<hr></hr>
+<hr>
 ### Intermediate Python
-- Object-Oriented Programming (OOP) 
-- Classes and Inheritance
-- File Handling
-- CSV Processing
-- GUI Development with Tkinter
-- JSON
-- APIs
-- Web Scraping
-- Selenium Automation
-- Flask Web Development
+- Object-Oriented Programming (OOP) <br>
+- Classes and Inheritance  <br>
+- File Handling <br>
+- CSV Processing <br>
+- GUI Development with Tkinter <br>
+- JSON <br>
+- APIs <br>
+- Web Scraping <br>
+- Selenium Automation <br>
+- Flask Web Development <br>
 
-<hr></hr>
+<hr>
 
 ### Advanced Python
 - REST APIs
@@ -40,7 +40,7 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Matplotlib
 - Plotly
 - Machine Learning Fundamentals
- <hr></hr>
+ <hr>
  
 ### Portfolio Projects
 -Band name generator
@@ -51,9 +51,7 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Secret auction program
 - Hangman Game
 - OOP version Coffee machine
- <hr></hr>
- 
-
+ <hr>
 
 ## Goal
 Build 100+ Python projects while developing strong problem-solving and software development skills.
