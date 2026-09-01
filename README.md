@@ -14,10 +14,10 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Lists and Dictionaries
 - Error Handling
 - Debugging
-- 
+ 
 <hr></hr>
 ### Intermediate Python
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP) 
 - Classes and Inheritance
 - File Handling
 - CSV Processing
@@ -40,10 +40,8 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Matplotlib
 - Plotly
 - Machine Learning Fundamentals
-
-- <hr></hr>
-
-
+ <hr></hr>
+ 
 ### Portfolio Projects
 -Band name generator
 -Tip and Splitter bill calculator
