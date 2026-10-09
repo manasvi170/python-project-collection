@@ -1,10 +1,10 @@
 # python-project-collection
-A collection of 100 Python Projects documenting my journey from beginner to advanced Python development. 
+<h3>A collection of Python Projects documenting my journey from beginner to advanced Python development.</h3>
 
 Hi, I'm Manasvi, a BCA student passionate about Python and software development.
-This repository documents my journey through a comprehensive Python Bootcamp, covering beginner, intermediate, advanced, and portfolio-level projects.
+This repository documents my journey through a comprehensive Python Bootcamp, covering beginner, intermediate, advanced, and portfolio-level projects.(PROJECTS IN MASTER BRANCH)
 
-## Topics Covered
+<h2>## Topics Covered</h2>
 
 ### Beginner Python
 - Variables and Data Types
@@ -14,18 +14,21 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Lists and Dictionaries
 - Error Handling
 - Debugging
+ 
+<hr>
+### Intermediate Python  <br>
+- Object-Oriented Programming (OOP) <br>
+- Classes and Inheritance  <br>
+- File Handling <br>
+- CSV Processing <br>
+- GUI Development with Tkinter <br>
+- JSON <br>
+- APIs <br>
+- Web Scraping <br>
+- Selenium Automation <br>
+- Flask Web Development <br>
 
-### Intermediate Python
-- Object-Oriented Programming (OOP)
-- Classes and Inheritance
-- File Handling
-- CSV Processing
-- GUI Development with Tkinter
-- JSON
-- APIs
-- Web Scraping
-- Selenium Automation
-- Flask Web Development
+<hr>
 
 ### Advanced Python
 - REST APIs
@@ -37,21 +40,18 @@ This repository documents my journey through a comprehensive Python Bootcamp, co
 - Matplotlib
 - Plotly
 - Machine Learning Fundamentals
-
+ <hr>
+ 
 ### Portfolio Projects
 -Band name generator
 -Tip and Splitter bill calculator
 -Treasure Island game
-- Rock ,Paper,Scissors game
-- 
-- Tic Tac Toe Game
-- Portfolio Website
-- Image Watermarking App
-- Todo List Website
-- Space Invaders Game
-- Web Scrapers
-- Browser Automation Projects
-- Data Analysis Projects
+- Rock Paper Scissors game
+- Ceaser Cipher program
+- Secret auction program
+- Hangman Game
+- OOP version Coffee machine
+ <hr>
 
 ## Goal
 Build 100+ Python projects while developing strong problem-solving and software development skills.
