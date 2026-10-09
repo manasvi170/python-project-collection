@@ -2,7 +2,7 @@
 <h3>A collection of Python Projects documenting my journey from beginner to advanced Python development.</h3>
 
 Hi, I'm Manasvi, a BCA student passionate about Python and software development.
-This repository documents my journey through a comprehensive Python Bootcamp, covering beginner, intermediate, advanced, and portfolio-level projects.
+This repository documents my journey through a comprehensive Python Bootcamp, covering beginner, intermediate, advanced, and portfolio-level projects.(PROJECTS IN MASTER BRANCH)
 
 <h2>## Topics Covered</h2>
 
