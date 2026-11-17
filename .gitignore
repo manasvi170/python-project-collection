@@ -1,0 +1,15 @@
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+gcm-diagnose.log
+
+# Virtual environments
+.venv/
+venv/
+env/
